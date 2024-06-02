@@ -1,0 +1,48 @@
+TASK WHICH WE PERFORMED
+
+1. **Create Database Tables:**
+    - Task: Set up a table called `employees` with columns for employee information.
+    
+2. **Additional Table Creation:**
+    - Task: Set up an additional table called `departments` with relevant department information.
+
+3. **Alter Employees Table:**
+    - Task: Alter the `employees` table to add constraints, default values, and new columns.
+    
+4. **Insert Values into Tables:**
+    - Task: Insert values into the `employees` and `departments` tables as specified.
+
+5. **Update Employee Information:**
+    - Task: Update the employee information based on specified changes, like promotions or salary adjustments.
+
+6. **Create a View:**
+    - Task: Create a view called `v_employees_info` based on a specified query.
+
+7. **Calculate Average Salary for a Position:**
+    - Task: Write a query to calculate the average salary for a specific position.
+
+8. **Calculate Average Salaries Per Division:**
+    - Task: Write a query to calculate the average salaries per division.
+
+9. **Calculate Running Total of Salary:**
+    - Task: Write a query to calculate a running total of salary development ordered by the start date.
+
+10. **Calculate Salary Development with Departure Consideration:**
+    - Task: Write a query to calculate a running total of salary development considering departures.
+
+11. **Identify Employees Earning Less Than Average:**
+    - Task: Write a query to identify the number of employees earning less than their average position salary.
+
+12. **Output Top Earners per Position Title:**
+    - Task: Write a query to output only the top earner per position title.
+
+13. **Calculate Aggregations by Division, Department, and Position Title:**
+    - Task: Write a query to calculate all meaningful aggregations grouped by division, department, and position title.
+
+14. **Output Running Total of Salary Development:**
+    - Task: Write a query to output a running total of salary development ordered by the start date.
+
+15. **Output Top Earner of Each Department:**
+    - Task: Write a query to output only the top earner of each department.
+
+Each of these tasks breaks down the process into manageable steps, making it easier to approach and complete the entire set of queries.
